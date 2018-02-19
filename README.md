@@ -19,7 +19,6 @@
   <strong>reducers</stromg> - здесь все редьюсеры проекта<br>
   
   <h3>Папка www</h3>
-  
-  <p>В этой папке находится главный html фал - <i>index.html</i> и bundle <i>index.js</i></p><br>
+  <p>В этой папке находится главный html фал - <i>index.html</i> и bundle <i>index.js</i></p>
   <p>Так же в этой папке все стили приложения которые находятся в папке <strong>CSS<strong></p>
   
