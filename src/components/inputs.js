@@ -10,7 +10,7 @@ export default class Input extends Component {
 
     //Изменяем значения полей при редактировании
     changeInputValue (event) {
-        const {newValue,fieldName} = this.props
+        const {newValue,fieldName} = this.props;
         this.setState({valueInput:event.target.value},()=>newValue(fieldName,this.state.valueInput))
 
     }
