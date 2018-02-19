@@ -16,7 +16,7 @@
   <strong>action</strong> - в этой папке хранится файл <i>index.js</i> в котором находится все экшены приложения<br>
   <strong>api</strong> - здесь два файла <i>index.js</i> в котором мы парсим JSON файл и <i>test.json</i> - сам JSON файл который парсим<br>
   <strong>components</strong> - здесь хранятся все компоненты приложения<br>
-  <strong>reducers</stromg> - здесь все редьюсеры проекта<br>
+  <strong>reducers</strong> - здесь все редьюсеры проекта<br>
   
   <h3>Папка www</h3>
   <p>В этой папке находится главный html фал - <i>index.html</i> и bundle <i>index.js</i></p>
