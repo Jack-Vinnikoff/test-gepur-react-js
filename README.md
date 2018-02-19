@@ -18,7 +18,8 @@
   <strong>components</strong> - здесь хранятся все компоненты приложения<br>
   <strong>reducers</stromg> - здесь все редьюсеры проекта<br>
   
-  <h3>Папка wwww</h3>
+  <h3>Папка www</h3>
+  
   <p>В этой папке находится главный html фал - <i>index.html</i> и bundle <i>index.js</i></p><br>
   <p>Так же в этой папке все стили приложения которые находятся в папке <strong>CSS<strong></p>
   
